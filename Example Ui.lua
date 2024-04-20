@@ -1,4 +1,4 @@
-// Example How To Use Ui Alcemy Noob
+//Example How To Use Ui Alcemy Noob
 
 local lib_free = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/__Script/main/__GUI.lua"))()
 
